@@ -37,33 +37,33 @@
     - [Criando um Estilo de Nota](06-custom-notestyles/06-01-creating-a-notestyle.md)
     - [Usando um Estilo de Nota em uma Musica](06-custom-notestyles/06-02-using-a-notestyle-in-a-song.md)
 
-- [Custom Sticker Packs](07-custom-sticker-packs/07-00-custom-sticker-packs.md)
-  - [Creating a new Sticker Pack](07-custom-sticker-packs/07-01-creating-a-new-sticker-pack.md)
-  - [Modifying an Existing Sticker Pack](07-custom-sticker-packs/07-02-modifying-an-existing-sticker-pack.md)
-  - [Using a Custom Sticker Pack](07-custom-sticker-packs/07-03-using-a-custom-sticker-pack.md)
+- [Pacotes de Adesivos Personalizados](07-custom-sticker-packs/07-00-custom-sticker-packs.md)
+  - [Criando um Pacote de Adesivos](07-custom-sticker-packs/07-01-creating-a-new-sticker-pack.md)
+  - [Modificando um Pacote de Adesivo](07-custom-sticker-packs/07-02-modifying-an-existing-sticker-pack.md)
+  - [Usando um Pacote de Adesivo](07-custom-sticker-packs/07-03-using-a-custom-sticker-pack.md)
 
-# Mod API Systems
+# Sistema de API de Mods
 
-- [Migration](09-migration/09-00-migrating-mods-to-newer-versions.md)
-    - [v0.1.0 to v0.5.0](09-migration/09-01-0.1.0-to-0.5.0.md)
-    - [v0.5.0 to v0.6.3](09-migration/09-02-0.5.0-to-0.6.3.md)
+- [Migração](09-migration/09-00-migrating-mods-to-newer-versions.md)
+    - [v0.1.0 para v0.5.0](09-migration/09-01-0.1.0-to-0.5.0.md)
+    - [v0.5.0 para v0.6.3](09-migration/09-02-0.5.0-to-0.6.3.md)
 
-- [Appending And Merging Files](10-appending-and-merging-files/10-00-appending-and-merging-files.md)
-    - [Appending Files](10-appending-and-merging-files/10-01-appending-files.md)
-    - [Merging Files](10-appending-and-merging-files/10-02-merging-files.md)
+- [Anexando e Mesclando Arquivos](10-appending-and-merging-files/10-00-appending-and-merging-files.md)
+    - [Anexando Arquivos](10-appending-and-merging-files/10-01-appending-files.md)
+    - [Mesclando Arquivos](10-appending-and-merging-files/10-02-merging-files.md)
 
 # HScript
 
-- [Using HScript](20-using-hscript/20-00-using-hscript.md)
-    - [What is HScript?](20-using-hscript/20-01-what-is-hscript.md)
-- [Scripted Classes](21-scripted-classes/21-00-scripted-classes.md)
-    - [Scripted Songs](21-scripted-classes/21-01-scripted-songs.md)
+- [Usando HScript](20-using-hscript/20-00-using-hscript.md)
+    - [Oque é HScript?](20-using-hscript/20-01-what-is-hscript.md)
+- [Classes com Script](21-scripted-classes/21-00-scripted-classes.md)
+    - [Musicas com Script](21-scripted-classes/21-01-scripted-songs.md)
 
-# HScript (Advanced)
+# HScript (Avançados)
 
-- [WIP: Scripted Modules](30-scripted-modules/30-00-scripted-modules.md)
-- [WIP: Custom Shaders](31-custom-shaders/31-00-custom-shaders.md)
+- [WIP: Modulos com Script](30-scripted-modules/30-00-scripted-modules.md)
+- [WIP: Shaders(Filtros) Personalizados](31-custom-shaders/31-00-custom-shaders.md)
 
 ---
 
-[Writing And Contributing to This Book](writing-and-contributing-to-this-book.md)
+[Escrevendo e Contribuindo para este Documento.](writing-and-contributing-to-this-book.md)
