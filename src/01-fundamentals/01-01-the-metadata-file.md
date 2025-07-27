@@ -41,9 +41,10 @@ O arquivo `_polymod_meta.json` tem os seguintes campos:
 - `optionalDependencies`: Um mapa de IDs de mods que são dependências opcionais, juntamente com os seus números de versão.
   - Estes mods não precisam necessariamente de ser instalados para que este mod seja carregado, mas ainda assim forçarão a reordenação da lista de mods para que as dependências sejam carregadas antes deste mod.
 - `api_version`: Um número de versão usado para determinar se os mods são compatíveis com a sua cópia do Funkin'. Altere isso para o número da versão do Friday Night Funkin' que você deseja suportar, de preferência a mais recente (`0.6.3` no momento da redação*).
-`Notas do Tradutor: `Texto original de Eric foi feito na epoca que Friday Night Funkin era na versão 0.6.3`
 - `mod_version`: Um número de versão específico para o seu mod. Escolha qualquer versão ou deixe como `1.0.0`.
 - `license`: A licença sob a qual o seu mod é distribuído. [Escolha uma aqui](https://opensource.org/licenses) ou deixe como `Apache-2.0`.
+
+`Notas do Tradutor: Texto original de Eric foi feito na epoca que Friday Night Funkin era na versão 0.6.3`
 
 Um colaborador tem os seguintes campos:
 
