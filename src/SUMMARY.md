@@ -2,22 +2,22 @@
 
 [Friday Night Funkin' Modding](title-page.md)
 
-# Getting Started
-- [Fundamentals](01-fundamentals/01-00-fundamentals.md)
-    - [The Metadata File](01-fundamentals/01-01-the-metadata-file.md)
-    - [Loading the Mod In-Game](01-fundamentals/01-02-loading-the-mod-in-game.md)
-    - [Asset Replacement and Additons](01-fundamentals/01-03-asset-replacement-and-additions.md)
-    - [Mod Load Order](01-fundamentals/01-04-mod-load-order.md)
-    - [Hot Reloading](01-fundamentals/01-05-hot-reloading.md)
-    - [Chapter Conclusion](01-fundamentals/01-06-chapter-conclusion.md)
+# Começando
+- [Fundamentais](01-fundamentals/01-00-fundamentals.md)
+    - [O Arquivo Metadata](01-fundamentals/01-01-the-metadata-file.md)
+    - [Carregando o Mod no Jogo](01-fundamentals/01-02-loading-the-mod-in-game.md)
+    - [Substituição de Arquivos e Adições](01-fundamentals/01-03-asset-replacement-and-additions.md)
+    - [Ordem de Carregamento de Mods](01-fundamentals/01-04-mod-load-order.md)
+    - [Carregamento Rapido](01-fundamentals/01-05-hot-reloading.md)
+    - [Conclução de Capitulos](01-fundamentals/01-06-chapter-conclusion.md)
 
-# Custom Assets
-- [Custom Songs and Custom Levels](02-custom-songs-and-custom-levels/02-00-custom-songs-and-custom-levels.md)
-    - [Creating a Chart](02-custom-songs-and-custom-levels/02-01-creating-a-chart.md)
-    - [Adding the Custom Song](02-custom-songs-and-custom-levels/02-02-adding-the-custom-song.md)
-    - [Adding a Custom Level](02-custom-songs-and-custom-levels/02-03-adding-a-custom-level.md)
-    - [What Are Variations?](02-custom-songs-and-custom-levels/02-04-what-are-variations.md)
-    - [Adding Variations to Existing Songs](02-custom-songs-and-custom-levels/02-05-adding-variations-to-existing-songs.md)
+# Assets Personalizados
+- [Musicas e Fases Personalizados](02-custom-songs-and-custom-levels/02-00-custom-songs-and-custom-levels.md)
+    - [Criando Uma Chart](02-custom-songs-and-custom-levels/02-01-creating-a-chart.md)
+    - [Adicionando uma Musica Personalizada](02-custom-songs-and-custom-levels/02-02-adding-the-custom-song.md)
+    - [Adicionando uma Fase Personalizada](02-custom-songs-and-custom-levels/02-03-adding-a-custom-level.md)
+    - [Oque São Variações?](02-custom-songs-and-custom-levels/02-04-what-are-variations.md)
+    - [Adicionando Variações nas Musicas](02-custom-songs-and-custom-levels/02-05-adding-variations-to-existing-songs.md)
 
 - [Custom Characters](03-custom-characters/03-00-custom-characters.md)
     - [Character Assets](03-custom-characters/03-01-character-assets.md)
