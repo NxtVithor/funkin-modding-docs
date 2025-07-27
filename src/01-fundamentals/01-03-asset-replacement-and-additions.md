@@ -1,12 +1,12 @@
-# Asset Replacement and Additons
+# Substituições de Arquivos e Adições
 
-## Asset Replacement
+## Substituições de Arquivos
 
-The key thing that Polymod allows you to do is to replace assets. This is done by adding those files to your mods folder in the same location as they would go.
+O principal recurso que o Polymod permite é substituir recursos. Isso é feito adicionando esses arquivos à sua pasta de mods, no mesmo local onde eles seriam colocados.
 
-For example, you can replace Girlfriend's sprites by placing your new sprites in the same location as they are in the `assets` folder, which would be `shared/images/characters/GF_assets.png`.
+Por exemplo, pode substituir os sprites da GirlFriend (eu não vou traduzir os nomes) colocando os seus novos sprites no mesmo local em que eles estão na pasta `assets`, que seria `shared/images/characters/GF_assets.png`.
 
-In other words, structure your mod like so:
+Em outras palavras, estruture o seu mod da seguinte forma:
 
 ```
 -assets
@@ -23,10 +23,10 @@ In other words, structure your mod like so:
 -Funkin.exe
 ```
 
-When the game goes to load a character's sprites, it will make a request internally to retrieve the `assets/shared/images/characters/GF_assets.png` file to use for the texture (and the corresponding `XML` to split the image into individual frames). When it does, Polymod intercepts that request and checks if there is a file of that name among the loaded mods, and if so, it will use that instead.
+Quando o jogo vai carregar os sprites de um personagem, ele faz uma solicitação interna para recuperar o arquivo `assets/shared/images/characters/GF_assets.png` para usar na textura (e o `XML` correspondente para dividir a imagem em quadros individuais). Quando isso acontece, o Polymod intercepta essa solicitação e verifica se existe um arquivo com esse nome entre os mods carregados e, se existir, ele será usado.
 
-## Asset Additions
+## Adições de Arquivos
 
-Polymod also allows you to add new files to the game. This is notable, as trying to place new files into the `assets` directory doesn't work, the game won't recognize those files.
+O Polymod também permite adicionar novos arquivos ao jogo. Isto é importante, pois tentar colocar novos arquivos no diretório «assets» não funciona, o jogo não reconhecerá esses arquivos.
 
-The game still needs to get told to load those assets for them to get used, but there are many functions which load all the files in a given folder (such as the Song Registry, the Character Registry, the Stage Registry, etc). We'll look more into those later.
+O jogo ainda precisa ser instruído a carregar esses recursos para que eles sejam usados, mas há muitas funções que carregam todos os arquivos em uma determinada pasta (como o Registo de Músicas, o Registo de Personagens, o Registo de Palcos, etc.). Veremos isso com mais detalhes posteriormente.

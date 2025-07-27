@@ -1,6 +1,7 @@
-# Loading the Mod In-Game
+# Carregando o Mod dentro do Jogo
 
-Now that you have a metadata file, you can start the game! Pro tip, if you run the game from the command line, you can see lots of useful debug messages, like these messages that indicate your mod has loaded!
+Agora que você tem um ficheiro de metadados, pode iniciar o jogo! 
+Dica profissional: se você executar o jogo a partir da linha de comando, poderá ver muitas mensagens de depuração úteis, como estas mensagens que indicam que o seu mod foi carregado!
 
 ```shell
 source/funkin/modding/PolymodHandler.hx:316: Found 5 mods when scanning.
@@ -12,4 +13,4 @@ source/funkin/modding/PolymodErrorHandler.hx:79: [INFO-] LOADING MOD - Done load
 source/funkin/modding/PolymodHandler.hx:169: Mod loading complete. We loaded 5 / 5 mods.
 ```
 
-Neat! But right now, your mod doesn't do anything.
+Ótimo! Mas, neste momento, o seu mod não faz nada. (ainda)

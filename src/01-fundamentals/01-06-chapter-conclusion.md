@@ -1,3 +1,3 @@
-# Chapter Conclusion
+# Conclusão do Capítulo
 
-This chapter has covered the fundamentals of creating mods for Friday Night Funkin'. In other sections, we will go over how to add different types of custom content.
+Este capítulo abordou os fundamentos da criação de mods para Friday Night Funkin'. Em outras seções, veremos como adicionar diferentes tipos de conteúdo personalizado.
